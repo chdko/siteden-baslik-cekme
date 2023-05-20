@@ -16,3 +16,5 @@ basliklar = soup.find_all('h1')
 # Her başlığı ekrana yazdır
 for baslik in basliklar:
     print(baslik.text)
+
+print("commint test")
